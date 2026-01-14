@@ -4,10 +4,10 @@ int main(){
     int n;
     cin>>n;
     if(n%2==0){
-        cout<<"even"<<endl;
+        cout<<"Even"<<endl;
     }
     else{
-        cout<<"odd"<<endl;
+        cout<<"Odd"<<endl;
     }
     return 0;
 }
