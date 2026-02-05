@@ -1,0 +1,1 @@
+# 3 questions are done on pattern on hacker blocks
