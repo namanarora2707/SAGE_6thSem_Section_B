@@ -1,0 +1,1 @@
+q1 --> 1492 kth factor of n Leetcode
