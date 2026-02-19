@@ -1,1 +1,3 @@
-q1 --> 7 inverse Integer Leetcode
+Leetcode Questions
+
+--> 7
