@@ -1,10 +1,5 @@
 Leetcode Questions
 
---> 15 - 3Sum
---> 73 - Set Matrix Zeroes
---> 566 - Reshape the Matrix
---> 1572 - Matrix Diagonal Sum
-
-Homework Questions
-
---> 498 - Diagonal Traverse
+--> 48 - Rotate Image
+--> 74 - Search a 2D Matrix
+--> 118 - Pascal's Triangle

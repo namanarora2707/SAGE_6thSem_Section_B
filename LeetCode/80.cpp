@@ -11,7 +11,6 @@ int removeDuplicates(vector<int>& nums) {
     }
     return j;
 }
-
 int main() {
     vector<int> nums = {1,1,1,2,2,3};
     int k = removeDuplicates(nums);

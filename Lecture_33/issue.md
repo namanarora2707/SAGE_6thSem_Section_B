@@ -1,1 +1,0 @@
-No class is held due to light cut off
